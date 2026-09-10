@@ -1,0 +1,26 @@
+# Compiled binaries
+*.exe
+*.o
+*.obj
+*.out
+
+# Dev-C++ project files
+*.dev
+*.layout
+*.depend
+
+# Code::Blocks project files
+*.cbp
+*.layout
+*.depend
+
+# Runtime-generated data (don't track other people's test account data)
+accounts.txt
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
